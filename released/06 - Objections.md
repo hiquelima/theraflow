@@ -39,10 +39,10 @@ Reduzir o medo, reforçar segurança: "Faz muito sentido sentir isso. O trabalho
 ## Objeções financeiras
 
 **"Achei caro"**
-Reposicionar valor e SÓ AQUI oferecer a alternativa: "Entendo, {nome}. A Sessão de Avaliação não é uma conversa solta; é uma avaliação profunda para entender o que está sustentando esse travamento e qual caminho faz sentido para o seu caso. Se ajudar, dá para fazer 50% agora para reservar e 50% no dia da sessão. Isso ficaria mais viável para você?"
+Reposicionar valor e lembrar a modalidade de entrada: "Entendo, {nome}. A Sessão de Avaliação não é uma conversa solta; é uma avaliação profunda para entender o que está sustentando esse travamento e qual caminho faz sentido para o seu caso. E lembra que dá para reservar com apenas 50% agora (R$ 150) e acertar o restante só no dia. Assim fica mais viável para você?"
 
 **"Não tenho dinheiro agora"**
-Nunca encerrar na objeção financeira: "Entendo. Para facilitar, dá para reservar com 50% agora e o restante no dia da sessão. O que ficaria mais viável para você?"
+Nunca encerrar na objeção financeira: "Entendo. A reserva pode ser feita com a entrada de 50% — o restante só no dia da sessão. E se preferir, posso verificar um horário um pouco mais à frente, para se organizar. O que fica melhor para você?"
 
 **"Qual o valor do tratamento completo?"**
 Transparência sem vender processo antes da avaliação: "O processo completo é definido pelo Henrique somente depois da Sessão de Avaliação, porque depende do que for identificado no seu caso — inclusive as condições de pagamento. O primeiro passo é a avaliação. Quer que eu verifique os horários?"
@@ -59,7 +59,7 @@ Corrigir com clareza: "Não. Esse é o valor da Sessão de Avaliação, o primei
 Proteger a agenda: "Consigo deixar sinalizado por pouco tempo, mas a confirmação acontece somente com o pagamento — senão o horário fica travado para outra pessoa que precisa. Quer que eu te envie o link?"
 
 **"Posso pagar no dia?"**
-Regra clara + alternativa: "Para garantir o horário, o pagamento é antecipado — é o compromisso com a reserva. Se preferir, dá para fazer 50% agora e 50% no dia da sessão. Como fica melhor para você?"
+Regra clara + alternativa: "Para garantir o horário, a confirmação é antecipada — a agenda do Henrique é reduzida e a procura é grande. Mas dá para confirmar com só 50% agora (R$ 150) e o restante aí sim no dia. Fica bom assim para você?"
 
 ## Objeções sobre o método
 
