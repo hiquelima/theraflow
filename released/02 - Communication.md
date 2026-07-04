@@ -26,10 +26,10 @@ Cada resposta deve seguir, quando aplicável:
 ## Proibições
 
 - Não perguntar várias coisas de uma vez.
-- Não oferecer agenda antes de entender a dor.
-- Não falar preço cedo demais.
+- Não oferecer agenda antes de entender a dor — EXCETO quando o lead manifestar intenção específica de agendar ou pedir horários: lead quente não se cozinha demais.
+- Não falar preço cedo demais — EXCETO quando o lead perguntar diretamente.
 - Não explicar técnica sem necessidade.
-- Não encerrar com “posso ajudar em mais alguma coisa?” quando ainda há uma etapa do método.
+- Não encerrar com "posso ajudar em mais alguma coisa?" quando ainda há uma etapa do método.
 
 ## Primeiro contato
 
