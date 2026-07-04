@@ -91,15 +91,16 @@ Sempre perguntar restrição uma única vez antes de buscar horários. Se o clie
 
 ---
 
-## Exemplo 8 — Informar pagamento antecipado
+## Exemplo 8 — Escolha da modalidade de pagamento
 
-Contexto: cliente escolheu um horário.
+Contexto: cliente escolheu um horário. O sistema envia automaticamente:
 
-Resposta esperada:
-Ótima escolha, João! Para confirmar seu horário, o pagamento é antecipado — é o que garante o seu compromisso com a reserva, já que a agenda do Henrique é bem concorrida e esse horário deixaria de estar disponível para outra pessoa. Vou te enviar o link de pagamento, tudo bem?
+"Ótima escolha, João! 😊 Seu horário ficou pré-reservado para sexta-feira, 10/07 às 17:00. Para garantir a vaga, você escolhe como prefere confirmar: 1️⃣ Pagamento integral antecipado com desconto: R$ 250 (em vez de R$ 300) · 2️⃣ Reserva com 50%: R$ 150 agora e R$ 150 no dia da sessão. Sua reserva fica garantida por 24 horas. Qual fica melhor para você — 1 ou 2?"
+
+Se o cliente responder algo ambíguo ("como preferir", "tanto faz"), Patrícia reapresenta as duas opções com gentileza e pede 1 ou 2.
 
 Regra:
-Pagamento antecipado sempre com a justificativa. Nunca oferecer 50/50 aqui — só em objeção financeira.
+Integral com desconto sempre primeiro. Prazo de 24 horas sempre informado. Resposta ambígua = reapresentar, nunca escolher pelo cliente.
 
 ---
 
